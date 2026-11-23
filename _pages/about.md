@@ -17,13 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Machine Learning Research Engineer at [Salesforce AI Research](https://www.salesforceairesearch.com/) / [Rutgers University](https://www.rutgers.edu/), where I completed my M.S. in Computer Science. I build the systems my own research runs on: the training pipelines, evaluation frameworks, and inference servers behind my results are ones I built, cutting training token usage up to 10x and judge overhead 2.7x while lifting accuracy up to 8%.
-
-My research interests include LLM post-training, reward modeling, and the reasoning and evaluation of multi-agent systems. I am first author of an ICML 2026 paper on process verification for multi-agent systems, and a co-author of a NeurIPS 2026 submission on reward modeling for multi-agent orchestration. You can find my papers on <a href='https://scholar.google.com/citations?user=sZfwZwcAAAAJ'>Google Scholar</a> <a href='https://scholar.google.com/citations?user=sZfwZwcAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-
 # 🔥 News
-- *2026.06*: &nbsp;📄 [Reward Modeling for Multi-Agent Orchestration](https://arxiv.org/abs/2606.13598) is on arXiv and under review at NeurIPS 2026.
+- *2026.11*: &nbsp;Served as a reviewer for **ICLR 2027**.
+- *2026.09*: &nbsp;🎉🎉 [Reward Modeling for Multi-Agent Orchestration](https://openreview.net/forum?id=9HnmEMnWjg) is accepted to **NeurIPS 2026**!
+- *2026.06*: &nbsp;📄 [Reward Modeling for Multi-Agent Orchestration](https://arxiv.org/abs/2606.13598) is on arXiv.
 - *2026.05*: &nbsp;🎉🎉 [MAS-ProVe](https://openreview.net/forum?id=UoM3G7nKr0) is accepted to **ICML 2026**!
 - *2026.05*: &nbsp;🎓 Completed my M.S. in Computer Science at Rutgers University.
 - *2025.06*: &nbsp;Joined Salesforce AI Research / Rutgers University as a Machine Learning Research Engineer.
@@ -43,7 +40,7 @@ My research interests include LLM post-training, reward modeling, and the reason
 </div>
 </div>
 
-- [Reward Modeling for Multi-Agent Orchestration](https://arxiv.org/abs/2606.13598), K. Y. Tsang, Z. Zhao, **Vishal Venkataramani**, H. Shi, Z. Ke, S. Yavuz, S. Joty, H. Wang, **NeurIPS 2026 (under review)**
+- [Reward Modeling for Multi-Agent Orchestration](https://openreview.net/forum?id=9HnmEMnWjg), K. Y. Tsang, Z. Zhao, **Vishal Venkataramani**, H. Shi, Z. Ke, S. Yavuz, S. Joty, H. Wang, **NeurIPS 2026** \| [\[arXiv\]](https://arxiv.org/abs/2606.13598)
 
 # 🎖 Honors and Awards
 - 2x Excellent Teaching Assistant Award, Rutgers University.
@@ -57,7 +54,17 @@ My research interests include LLM post-training, reward modeling, and the reason
 - *2025.06 - now*, Machine Learning Research Engineer, [Salesforce AI Research](https://www.salesforceairesearch.com/) / [Rutgers University](https://www.rutgers.edu/). LLM post-training, reward modeling, and evaluation of multi-agent systems.
 - *2024.01 - 2024.06*, Research Intern (Computer Vision), [IIIT-Hyderabad](https://www.iiit.ac.in/), India. Zero-shot GroundingDINO labeling cut annotation effort 40%; fine-tuned YOLOv8 to 60 ms per-frame inference on an NVIDIA Jetson Nano.
 
+# 📚 Teaching
+Teaching Assistant, Department of Computer Science, [Rutgers University](https://www.rutgers.edu/) (2x Excellent TA Award, 2024–25 & 2025–26).
+- *Fall 2026*, CS210: Data Management for Data Science. Supervisor: Ananda D. Gunawardena.
+- *Spring 2026*, CS461: Machine Learning Principles. Supervisor: Matthew Stone.
+- *Spring 2025 - Fall 2025*, CS439: Introduction to Data Science. Supervisor: Ananda D. Gunawardena.
+- *Fall 2024 - Fall 2026*, CS206: Introduction to Discrete Structures. Supervisor: Samaneh Hamidi.
+
 # 🚀 Projects
 - *2026*, **Poké-Copilot**. A real-time strategy copilot spanning a Chrome extension, a FastAPI websocket backend, a Bayesian predictor sidecar, and a self-hosted vLLM server, streaming analysis in 130-1200 ms per turn.
 - *2026*, **[FineSurE-Ext](https://github.com/VizalV/FineSurE-Ext)**. Extends an ACL'24 factuality-evaluation framework to any backend through centralized model routing across Qwen, Llama, and GPT-4.
 - *2025*, **LLM Curriculum, Rutgers CS439**. An open-sourced fine-tuning and agentic-workflow module with annotated notebooks and the OpenAI Agents SDK, delivered to 200+ students.
+
+# 📄 CV
+- My full CV is available [here (PDF)](https://drive.google.com/file/d/1yw72CByHCxq415P5FYtuPBEfQqs5cJ-B/view?usp=sharing).

@@ -18,5 +18,11 @@ main:
   - title: "Experience"
     url: "/#-experience"
 
+  - title: "Teaching"
+    url: "/#-teaching"
+
   - title: "Projects"
     url: "/#-projects"
+
+  - title: "CV"
+    url: "/#-cv"
